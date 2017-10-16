@@ -10,7 +10,13 @@
         "name": "Rocky"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "Test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Timothy De Block"
   }
 }
